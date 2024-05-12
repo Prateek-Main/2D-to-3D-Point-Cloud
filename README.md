@@ -16,7 +16,7 @@ The project utilizes Python programming language and relevant libraries includin
 ## Output Presentation:
 The project output consists of:
 1. **Depth Image Heatmap**: A visualization of the depth map obtained from the input image, providing a grayscale representation of depth values.
-   ![Depth Image Heatmap](<img width="546" alt="Screenshot 2024-05-12 at 10 00 52 PM" src="https://github.com/Prateek-Main/2D-to-3D-Point-Cloud/assets/114331206/5e45dfd5-88a4-445d-a186-defc58b47036">)
+   <img width="546" alt="Screenshot 2024-05-12 at 10 00 52 PM" src="https://github.com/Prateek-Main/2D-to-3D-Point-Cloud/assets/114331206/5e45dfd5-88a4-445d-a186-defc58b47036">
 2. **Colored Point Cloud Video**: A dynamic visualization of the 3D point cloud, with each point colored based on its depth value, offering a comprehensive view of the scene's spatial structure.
    ![Colored Point Cloud Video]()
 3. **Heatmap Point Cloud Video**: A dynamic representation of the 3D point cloud with heatmap coloring, visually conveying the depth distribution within the scene.
