@@ -1,6 +1,3 @@
-# Project Title: Converting 2D Images to 3D Point Cloud using MiDaS Model
-
-## Description:
 This project aims to convert 2D images into 3D point clouds using the MiDaS (Mixed Data Supervision) model, leveraging the Open3D library for visualization. The process involves utilizing the depth estimation capabilities of the MiDaS model to infer depth information from 2D images, which is then transformed into a 3D point cloud representation.
 
 ## Key Components:
